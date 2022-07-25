@@ -6,7 +6,7 @@ Para ello utilizaremos de la API YELP: https://www.yelp.com/developers/v3/manage
 
 Integrantes:
 
-Boris Soto: Ingeniero de Sistemas, Desarrollador Mobile y Fullstack.
+Boris Soto: Ingeniero de Sistemas, Desarrollador Mobile.
 
 Arturo Wilson: Mobile Developer Mobile Freelancer.
 
